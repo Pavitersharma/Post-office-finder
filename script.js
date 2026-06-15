@@ -45,11 +45,3 @@ result.innerHTML = "";
 
 
 
-
-
-
-
-
-
-
-
